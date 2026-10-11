@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndreMataCh.github.io/anva-store/sitemap.xml
